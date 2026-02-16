@@ -1,5 +1,18 @@
 {
-  "version": 1,
-  "boxSize": { "width": 8, "height": 6 },
-  "blocks": []
+  "puzzles": [
+    {
+      "id": 1,
+      "width": 6,
+      "height": 6,
+      "blocks": [
+        { "x": 1, "y": 2, "size": 1, "direction": "N" }
+      ]
+    },
+    {
+      "id": 2,
+      "width": 5,
+      "height": 5,
+      "blocks": []
+    }
+  ]
 }
